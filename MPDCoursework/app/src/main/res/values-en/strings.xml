@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--James Paton S1111175-->
+<resources>
+    <string name="Update">Update</string>
+    <string name="Updating">Updating...</string>
+    <string name="DarkMode">Dark Mode</string>
+    <string name="FontSize">Font Size</string>
+    <string name="Search">Search...</string>
+    <string name="Date">Date...</string>
+    <string name="title_activity_maps">Journey Planner</string>
+    <string name="plan_a_journey">Plan a Journey</string>
+    <string name="view_roadworks">View Roadworks</string>
+    <string name="settings">Settings</string>
+    <string name="traffic_scotland">Traffic Scotland</string>
+    <string name="language">Language</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="current_incidents">Current Incidents</string>
+    <string name="roadworks">Roadworks</string>
+    <string name="planned_roadworks">Planned Roadworks</string>
+</resources>

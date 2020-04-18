@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Update">Ažuriraj</string>
+    <string name="Updating">Ažuriranje</string>
+    <string name="DarkMode">Mračni Način Rada</string>
+    <string name="FontSize">Veličina Fonta</string>
+    <string name="Search">Traži</string>
+    <string name="Date">Datum...</string>
+    <string name="settings">Postavke</string>
+    <string name="language">Jezik</string>
+    <string name="traffic_scotland">Promet u Škotskoj</string>
+    <string name="title_activity_maps">Planer Putovanja</string>
+    <string name="plan_a_journey">Planirajte Putovanje</string>
+    <string name="view_roadworks">Pogledajte Radove na Cesti</string>
+    <string name="small">Mali</string>
+    <string name="medium">Srednji</string>
+    <string name="large">Veliki</string>
+    <string name="current_incidents">" Trenutni Incidenti"</string>
+    <string name="roadworks">Radovi na Cesti</string>
+    <string name="planned_roadworks">Planirani Radovi na Cesti</string>
+</resources>

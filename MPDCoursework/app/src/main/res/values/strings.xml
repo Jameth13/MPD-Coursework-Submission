@@ -1,0 +1,25 @@
+<!--James Paton S1111175-->
+<resources>
+    <string name="app_name" translatable="false">MPD Coursework</string>
+    <string name="Update">Update</string>
+    <string name="Updating">Updating...</string>
+    <string name="DarkMode">Dark Mode</string>
+    <string name="title_activity_base" translatable="false">Base Activity</string>
+    <string name="FontSize">Font Size</string>
+    <string name="Search">Search...</string>
+    <string name="Author" translatable="false">James Paton S1111175</string>
+    <string name="Date">Date...</string>
+    <string name="title_activity_maps">Journey Planner</string>
+    <string name="plan_a_journey">Plan a Journey</string>
+    <string name="view_roadworks">View Roadworks</string>
+    <string name="rss_item" translatable="false">RSS Item</string>
+    <string name="settings">Settings</string>
+    <string name="traffic_scotland">Traffic Scotland</string>
+    <string name="language">Language</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="current_incidents">Current Incidents</string>
+    <string name="roadworks">Roadworks</string>
+    <string name="planned_roadworks">Planned Roadworks</string>
+</resources>

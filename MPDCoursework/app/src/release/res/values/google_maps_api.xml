@@ -1,0 +1,4 @@
+<resources>
+    <!--James Paton S1111175-->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+</resources>

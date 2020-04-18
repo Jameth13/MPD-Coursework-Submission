@@ -1,0 +1,14 @@
+MPDCoursework/*.iml
+MPDCoursework/.gradle
+MPDCoursework/local.properties
+MPDCoursework/.idea/caches
+MPDCoursework/.idea/libraries
+MPDCoursework/.idea/modules.xml
+MPDCoursework/.idea/workspace.xml
+MPDCoursework/.idea/navEditor.xml
+MPDCoursework/.idea/assetWizardSettings.xml
+MPDCoursework/.DS_Store
+MPDCoursework/build
+MPDCoursework/captures
+MPDCoursework/.externalNativeBuild
+MPDCoursework/.cxx

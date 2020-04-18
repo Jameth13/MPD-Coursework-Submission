@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Update">Aktualisierung</string>
+    <string name="Updating">Aktualisieren...</string>
+    <string name="DarkMode">Dunkler Modus</string>
+    <string name="FontSize">Schriftgröße</string>
+    <string name="Search">Suchen...</string>
+    <string name="Date">Datum...</string>
+    <string name="title_activity_maps">Routenplaner</string>
+    <string name="plan_a_journey">Route Planen</string>
+    <string name="view_roadworks">Baustellen Ansehen</string>
+    <string name="settings">Einstellungen</string>
+    <string name="traffic_scotland">Verkehr Schottland</string>
+    <string name="language">Sprache</string>
+    <string name="small">Klein</string>
+    <string name="medium">Mittel</string>
+    <string name="large">Groß</string>
+    <string name="current_incidents">Aktuelle Zwischenfälle</string>
+    <string name="roadworks">Bauarbeiten</string>
+    <string name="planned_roadworks">Geplante Bauarbeiten</string>
+</resources>
